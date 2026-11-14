@@ -1,0 +1,13 @@
+{
+  "name": "free-model-aggregator-01-aqixing6",
+  "version": "0.1.0",
+  "description": "Bayesian Capability Scarcity Router and High-Throughput Model Gateway",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "start": "node --experimental-strip-types main.ts"
+  }
+}
